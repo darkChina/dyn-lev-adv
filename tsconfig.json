@@ -6,7 +6,7 @@
       "lib": [
         "DOM",
         "ESNext"
-      ] /* Specify library files to be included in the compilation. */,
+      ] /* Specify library files to be included in the compilation . */,
       "jsx": "react-jsx" /* Specify JSX code generation: 'preserve', 'react-native', 'react' or 'react-jsx'. */,
       "allowImportingTsExtensions": true,
       "noEmit": true /* Do not emit outputs. */,
