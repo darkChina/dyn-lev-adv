@@ -1,6 +1,7 @@
 import "./styles.css";
+import { RulesTable } from "./components/RulesTable";
 
 
 export const App = () => {
-    return <h1>React Template</h1>
+    return <RulesTable />
 }
